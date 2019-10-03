@@ -1,0 +1,16 @@
+{
+  "product_group": "software-infrastructure",
+  "project": {
+    "name": "gcsproxy",
+    "repo_url": "https://github.com/mythic-ai/gcsproxy"
+   },
+   "artifacts": [
+      {
+        "name": "gcsproxy",
+        "type": "docker_image",
+        "versions": {
+          "current": "1.0.0"
+        }
+      }
+   ]
+}
