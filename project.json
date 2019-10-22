@@ -1,5 +1,6 @@
 {
-  "product_group": "software-infrastructure",
+  "product_group": "software_infrastructure",
+  "version": "v1",
   "project": {
     "name": "gcsproxy",
     "repo_url": "https://github.com/mythic-ai/gcsproxy"
